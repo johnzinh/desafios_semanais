@@ -1,0 +1,56 @@
+[
+  {
+    "categoria": "Animais",
+    "resposta": "tigre",
+    "dicas": [
+      "Sou um felino! (uarrll)",
+      "Tenho listas prestas.",
+      "Sou encontrado na Ásia.",
+      "Sou um predador!"
+    ]
+  },
+  {
+    "categoria": "tecnologia",
+    "resposta": "smartphone",
+    "dicas": [
+      "Cabe no seu bolso.",
+      "Você pode fazer ligações.",
+      "Tem touchscreen.",
+      "Roda aplicativos."
+    ]
+  },
+  {
+    "categoria": "personalidades",
+    "resposta": "Albert Einstein",
+    "dicas": [
+      "Sou famoso por minha inteligência.",
+      "Sou físico teórico.",
+      "Criei a teoria da relatividade.",
+      "Tenho cabelos brancos e bagunçados.",
+      "Nasci na Alemanha.",
+      "Meu nome está ligado à genialidade.",
+      "Ganhei o Prêmio Nobel de Física.",
+      "Fui para os EUA na Segunda Guerra.",
+      "Minha equação famosa é E=mc².",
+      "Meu sobrenome é Einstein."
+    ]
+  },
+  {
+    "categoria": "jogos",
+    "resposta": "Minecraft",
+    "dicas": [
+      "É um jogo popular entre crianças e adultos.",
+      "Tem gráficos em blocos.",
+      "Pode-se minerar e construir.",
+      "Tem modo criativo e sobrevivência.",
+      "É possível enfrentar monstros.",
+      "Foi criado por Markus Persson.",
+      "Tem muitas atualizações com biomas.",
+      "Você pode criar suas próprias aventuras.",
+      "É muito usado na educação.",
+      "Seu nome começa com 'Mine'."
+    ]
+  }
+
+
+]
